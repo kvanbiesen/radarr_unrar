@@ -1,4 +1,4 @@
-FROM diameter/rtorrent-rutorrent:latest
+FROM diameter/rtorrent-rutorrent:stable
 USER root
 ADD plimits /var/www/rutorrent/plugins/plimits
 ADD trackers.lst /downloads/.rutorrent/settings/trackers.lst
