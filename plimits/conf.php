@@ -7,7 +7,7 @@ $RATIO_LIMIT	= 0;		// percents
 
 $trackersCheckInterval	= 1;	// in minutes
 //$restrictedTrackersURL 	= 'http://cheapseedboxes.com/trackers.asd';
-$restrictedTrackersURL 	= '/downloads/.rutorrent/settings/trackers.lst'
+$restrictedTrackersURL 	= '/downloads/.rutorrent/settings/trackers.lst';
 $preventUpload	= true;
 
 $log_debug 		= true;		// Log info to /tmp/errors.log
