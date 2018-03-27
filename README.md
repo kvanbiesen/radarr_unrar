@@ -1,5 +1,1 @@
-Exact copy from the amazing diamaters build for rutorrent.
-
-This Automaticly adds the Plimit Plugin for Rutorrent so that pubtorrents get stopped as soon as they finised
-
-More Plugins can be added if needed.
+Exact copy of linux server rardarr image but include unrar, handy for the unrar's
